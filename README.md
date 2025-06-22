@@ -1,4 +1,4 @@
-# counter_pizza
+# counter_pizza Đào Quang Thắng
 Lấy video từ link gg drive: https://drive.google.com/drive/folders/19QSILvBetBvcXyHjR85DahatiHOQSp_A
 - Chạy file
 ```
